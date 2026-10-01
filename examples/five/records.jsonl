@@ -1,0 +1,6 @@
+# SYNTHETIC hand-written examples, not Henry's real data
+{"id":"a","client":"Synthetic A","synthetic":true,"source":"synthetic_fixture","date":"2026-09-30","approved_minutes":60,"requested_minutes":60,"hourly_rate_cents":6000,"approved_deliverables":["draft"],"requested_deliverables":["draft"]}
+{"id":"b","client":"Synthetic B","synthetic":true,"source":"synthetic_fixture","date":"2026-09-30","approved_minutes":60,"requested_minutes":90,"hourly_rate_cents":6000,"approved_deliverables":["draft"],"requested_deliverables":["draft"]}
+{"id":"c","client":"Synthetic C","synthetic":true,"source":"synthetic_fixture","date":"2026-09-30","approved_minutes":60,"requested_minutes":60,"hourly_rate_cents":6000,"approved_deliverables":["draft"],"requested_deliverables":["draft","revision"]}
+{"id":"d","client":"Synthetic D","synthetic":true,"source":"synthetic_fixture","date":"2026-09-30","approved_minutes":60,"requested_minutes":120,"hourly_rate_cents":6000,"approved_deliverables":["draft"],"requested_deliverables":["draft","revision"]}
+{"id":"e","client":"Synthetic E","synthetic":true,"source":"synthetic_fixture","date":"2026-09-30","approved_minutes":60,"requested_minutes":30,"hourly_rate_cents":6000,"approved_deliverables":["draft"],"requested_deliverables":[]}

@@ -1,0 +1,6 @@
+{
+  "as_of": "2026-09-30",
+  "files": ["records.jsonl"],
+  "synthetic": true,
+  "label": "SYNTHETIC five-record handwritten example"
+}
