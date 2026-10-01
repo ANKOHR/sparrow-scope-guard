@@ -1,0 +1,7 @@
+Test count: 30 passed (python -m pytest -q).
+Local implementation commit: 2d5f57e3e19b326e11140599a98f69af18b59c43
+The following documentation commit records this receipt; the hash above identifies the tested implementation.
+Branch: main.
+Measured three-command installed CLI demo: 0.7174174 seconds, below 5 seconds.
+
+Built Sparrow Scope Guard as a dependency-free, deterministic Python CLI with fixtures, run, report, audit and quote commands. Pure domain comparisons detect explicit unapproved minutes and deliverables, with exact decimal rounding for hypothetical exposure and provenance on Markdown and JSON reports. Thirty passing tests verify all 150 planted cases among 200 labelled synthetic records, zero false positives, reconciled totals, a five-record handwritten example, adversarial input rejection, named errors, atomic report writes and byte-identical repeat output. README, local evidence, lessons and the two-week improvement hook are recorded; the final product verdict is pending real-use evidence, with no invented savings or revenue. No publishing was performed.
